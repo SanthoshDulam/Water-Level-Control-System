@@ -2,7 +2,7 @@
 ### *Digital Logic Design using JK Flip-Flops, 555 Timer, MUX & Relay Control*
 
 <p align="center">
-  <img src="Images/block_diagram.jpg" alt="Block Diagram" width="80%">
+  <img src="Images/BLOCK DIAGRAM.jpg" alt="Block Diagram" width="80%">
 </p>
 
 ---
@@ -50,7 +50,7 @@ A manual override mode allows the user to directly operate the pump using a swit
 
 ### 🧱 Block Diagram
 <p align="center">
-  <img src="Images/block_diagram.jpg" alt="Water Level Block Diagram" width="85%">
+  <img src="Images/BLOCK DIAGARM.jpg" alt="Water Level Block Diagram" width="85%">
 </p>
 
 > The block diagram illustrates the core flow between **sensors, logic gates, JK Flip-Flops, timer, and relay control**.  
@@ -60,7 +60,7 @@ A manual override mode allows the user to directly operate the pump using a swit
 
 ### 🔌 Circuit Diagram
 <p align="center">
-  <img src="Images/circuit_diagram.jpg" alt="Circuit Diagram" width="85%">
+  <img src="Images/circuit diagram.jpg" alt="Circuit Diagram" width="85%">
 </p>
 
 > The full hardware logic includes **555 timer**, **JK flip-flops**, **MUX**, **decoders**, and a **relay driver**.  
